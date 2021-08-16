@@ -1,0 +1,56 @@
+why do we write stuff in the brackets in the constructor
+why is the stuff in the display important/ walk me through it
+why is the stuff in the constructor important/ walk me through it
+what is the fly function
+what is the point b and a stuff in SlingShot
+how to do the slingshot and rope and stuff with the constraint
+Array
+
+project c 40
+how does the reset button work on the screen
+what is the way to program a player specificly for my screen
+ 
+
+pro c 35
+how do I start a firebase console and use the form games 
+and player
+
+
+pro c 36
+what is the player count and gamestate
+
+pro c 37 
+what is the stuff in the game class and player class
+
+pro c 38 
+what is the .input stuff and display width
+ 
+pro c 39
+what is everything in Form, Game, and Player, And sketch
+
+
+how it the player made
+what is the ==! for
+what is a data base reference
+what is the getStates
+and all the states
+what is the update and async
+what is the ref and databas.ref
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
